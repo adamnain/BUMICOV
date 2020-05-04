@@ -27,10 +27,8 @@ Fitur Aplikasi :
 - cupertino_icons: ^0.1.2
 
 ## Screenshot
-<img src="https://github.com/adamnain/bumicov/blob/master/ss/screen-1.jpg" width="50%">&nbsp;&nbsp;
-<img src="https://github.com/adamnain/bumicov/blob/master/ss/screen-2.jpg" width="50%">&nbsp;&nbsp;
-<img src="https://github.com/adamnain/bumicov/blob/master/ss/screen-3.jpg" width="50%">&nbsp;&nbsp;
-<img src="https://github.com/adamnain/bumicov/blob/master/ss/screen-4.jpg" width="50%">&nbsp;&nbsp;
-<img src="https://github.com/adamnain/bumicov/blob/master/ss/screen-5.jpg" width="50%">&nbsp;&nbsp;
-
-
+<img src="https://github.com/adamnain/bumicov/blob/master/ss/screen-1.jpg" >&nbsp;&nbsp;
+<img src="https://github.com/adamnain/bumicov/blob/master/ss/screen-2.jpg" >&nbsp;&nbsp;
+<img src="https://github.com/adamnain/bumicov/blob/master/ss/screen-3.jpg" >&nbsp;&nbsp;
+<img src="https://github.com/adamnain/bumicov/blob/master/ss/screen-4.jpg" >&nbsp;&nbsp;
+<img src="https://github.com/adamnain/bumicov/blob/master/ss/screen-5.jpg" >&nbsp;&nbsp;
