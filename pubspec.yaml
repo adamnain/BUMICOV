@@ -1,0 +1,43 @@
+name: bumicov
+description: Sukabumi Vs Covid
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^0.3.20
+  cupertino_icons: ^0.1.2
+  flutter_bloc: ^4.0.0
+  equatable: ^1.1.1
+  dio: ^3.0.9
+  shimmer: ^1.1.1
+  connectivity: ^0.4.8+2
+  url_launcher: ^5.4.5
+  share: ^0.6.4
+  flutter_launcher_icons: ^0.7.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/ico/ico.png"
+
+flutter:
+  assets:
+    - assets/images/
+
+  fonts:
+  - family: montserrat
+    fonts:
+      - asset: assets/fonts/montserrat/Montserrat-Regular.ttf
+
+  uses-material-design: true
+
+
